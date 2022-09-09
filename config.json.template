@@ -1,0 +1,11 @@
+{
+    "auth": {
+        "username": "",
+        "password": "", 
+        "keepConnected": true
+    },
+
+    "fight": {
+        "cooldown": 1
+    }
+}
